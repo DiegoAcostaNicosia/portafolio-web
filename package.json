@@ -1,0 +1,20 @@
+{
+  "name": "portafolio2023",
+  "version": "1.0.0",
+  "description": "portafolio version 2023",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiegoAcostaNicosia"
+  },
+  "author": "Diego Acosta Nicosia",
+  "license": "ISC",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
